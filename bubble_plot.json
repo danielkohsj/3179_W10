@@ -14,7 +14,7 @@
     "params": [
       {
         "name": "year_selection",
-        "value": 2022,
+        "value": 2021,
         "bind": {
           "input": "select",
           "options": [2019, 2020, 2021, 2022],
