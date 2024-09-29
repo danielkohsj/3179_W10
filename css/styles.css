@@ -11,10 +11,10 @@ body {
 }
 
 .page {
-    width: 900px;
+    width: 1000px;
     background-color: white;
     margin: auto;
-    padding: 50px;
+    padding: 35px;
     padding-top: 35px;
 }
 
